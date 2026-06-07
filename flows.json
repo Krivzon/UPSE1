@@ -29,7 +29,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 170,
-        "y": 420,
+        "y": 220,
         "wires": [
             [
                 "33b09cb5d8403a03"
@@ -49,7 +49,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 400,
-        "y": 420,
+        "y": 220,
         "wires": []
     }
 ]
